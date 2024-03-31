@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.7734ba0d.css",
-    "main.js": "/static/js/main.d97ed53f.js",
-    "static/js/453.c55dff22.chunk.js": "/static/js/453.c55dff22.chunk.js",
-    "index.html": "/index.html",
-    "main.7734ba0d.css.map": "/static/css/main.7734ba0d.css.map",
-    "main.d97ed53f.js.map": "/static/js/main.d97ed53f.js.map",
-    "453.c55dff22.chunk.js.map": "/static/js/453.c55dff22.chunk.js.map"
+    "main.css": "/legacy-talks/static/css/main.7734ba0d.css",
+    "main.js": "/legacy-talks/static/js/main.6a8f16c9.js",
+    "static/js/453.c55dff22.chunk.js": "/legacy-talks/static/js/453.c55dff22.chunk.js",
+    "index.html": "/legacy-talks/index.html",
+    "main.7734ba0d.css.map": "/legacy-talks/static/css/main.7734ba0d.css.map",
+    "main.6a8f16c9.js.map": "/legacy-talks/static/js/main.6a8f16c9.js.map",
+    "453.c55dff22.chunk.js.map": "/legacy-talks/static/js/453.c55dff22.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7734ba0d.css",
-    "static/js/main.d97ed53f.js"
+    "static/js/main.6a8f16c9.js"
   ]
 }
